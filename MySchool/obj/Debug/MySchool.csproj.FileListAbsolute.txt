@@ -1,0 +1,14 @@
+C:\Users\Νίκος\Desktop\Coding Bootcamp\C#\MySchool\MySchool\bin\Debug\MySchool.exe.config
+C:\Users\Νίκος\Desktop\Coding Bootcamp\C#\MySchool\MySchool\bin\Debug\MySchool.exe
+C:\Users\Νίκος\Desktop\Coding Bootcamp\C#\MySchool\MySchool\bin\Debug\MySchool.pdb
+C:\Users\Νίκος\Desktop\Coding Bootcamp\C#\MySchool\MySchool\bin\Debug\EntityFramework.dll
+C:\Users\Νίκος\Desktop\Coding Bootcamp\C#\MySchool\MySchool\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Νίκος\Desktop\Coding Bootcamp\C#\MySchool\MySchool\bin\Debug\EntityFramework.xml
+C:\Users\Νίκος\Desktop\Coding Bootcamp\C#\MySchool\MySchool\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Νίκος\Desktop\Coding Bootcamp\C#\MySchool\MySchool\obj\Debug\MySchool.csprojAssemblyReference.cache
+C:\Users\Νίκος\Desktop\Coding Bootcamp\C#\MySchool\MySchool\obj\Debug\MySchool.csproj.CoreCompileInputs.cache
+C:\Users\Νίκος\Desktop\Coding Bootcamp\C#\MySchool\MySchool\obj\Debug\MySchool.csproj.CopyComplete
+C:\Users\Νίκος\Desktop\Coding Bootcamp\C#\MySchool\MySchool\obj\Debug\MySchool.exe
+C:\Users\Νίκος\Desktop\Coding Bootcamp\C#\MySchool\MySchool\obj\Debug\MySchool.pdb
+C:\Users\Νίκος\Desktop\Coding Bootcamp\C#\MySchool\MySchool\obj\Debug\MySchool.Migrations.last.resources
+C:\Users\Νίκος\Desktop\Coding Bootcamp\C#\MySchool\MySchool\obj\Debug\MySchool.csproj.GenerateResource.cache
